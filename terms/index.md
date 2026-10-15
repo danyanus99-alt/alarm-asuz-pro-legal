@@ -1,152 +1,269 @@
-# Wake For Real Terms of Use
+# Alarm Asuz Pro Terms of Use
 
 **Last updated: October 15, 2026**
 
-These Terms of Use govern your use of the Wake For Real mobile application provided by **Asuzsoftware**.
+These Terms of Use govern your use of the Alarm Asuz Pro mobile application provided by **Asuzsoftware**.
 
-By downloading, accessing, or using Wake For Real, you agree to these Terms.
+By downloading, accessing, or using Alarm Asuz Pro, you agree to these Terms.
 
 ## 1. Purpose of the App
 
-Wake For Real provides alarm, wake-up, motivation, routine, and related mobile application features.
+Alarm Asuz Pro provides alarm, wake-up, sleep routine, motivation, and related mobile application features.
 
 The app is intended for personal use.
 
 ## 2. Alarm Reliability
 
-Wake For Real relies on your device, operating system, permissions, notification settings, battery status, volume settings, background restrictions, and other technical conditions.
+Alarm Asuz Pro relies on your device, operating system, permissions, notification settings, battery status, volume settings, background restrictions, and other technical conditions.
 
-We cannot guarantee that an alarm will sound under every possible circumstance.
+We cannot guarantee that an alarm will sound or display correctly under every possible circumstance.
 
 You are responsible for ensuring that:
 
 - your device has sufficient battery;
-- the required permissions are enabled;
-- your device volume and notification settings are appropriate;
-- operating-system restrictions do not prevent the app from functioning as intended.
+- the required alarm and notification permissions are enabled;
+- the device volume and notification settings are appropriate;
+- battery or background restrictions do not prevent alarm operation;
+- any operating-system settings required for reliable alarms remain enabled.
 
-Do not rely on Wake For Real as the sole alarm or notification method in situations where an alarm failure could result in injury, danger, financial loss, missed medical treatment, missed travel, or another serious consequence.
+Alarm Asuz Pro may guide you to system settings such as notification permissions, exact alarm settings, full-screen alarm capabilities, or battery optimization settings when necessary.
 
-## 3. Premium Features and Subscriptions
+Do not rely on Alarm Asuz Pro as the only alarm, warning, or notification method in situations where a failure could result in injury, danger, financial loss, missed medical treatment, missed travel, missed employment obligations, or another serious consequence.
 
-Wake For Real may offer Premium features through auto-renewable subscriptions.
+## 3. Wake-Up Missions
 
-The available plan, billing period, price, and applicable offer details are displayed before purchase.
+Alarm Asuz Pro may provide wake-up missions that must be completed before an alarm can be dismissed.
 
-Subscriptions automatically renew unless cancelled before the end of the applicable billing period in accordance with the rules of the Apple App Store or Google Play.
+These may include:
+
+- mathematical challenges;
+- memory challenges;
+- movement or shake challenges;
+- typing activities;
+- games;
+- affirmation or routine-based tasks;
+- other supported wake-up activities.
+
+The availability and behavior of missions may depend on your device hardware and operating system.
+
+If a mission requires device hardware that is unavailable or unsupported, Alarm Asuz Pro may provide an alternative or fallback method so that the user is not permanently prevented from dismissing an alarm.
+
+## 4. Motion-Based Features
+
+Some wake-up missions, such as Shake Challenge, may use your device's motion or accelerometer sensors.
+
+These sensors are used only as necessary to detect movement required by the feature.
+
+Movement-based features may behave differently depending on your device hardware, sensor quality, protective case, operating-system behavior, or physical movement.
+
+You should use movement-based missions safely and avoid excessive or dangerous movement.
+
+## 5. Sleep Tracking
+
+Alarm Asuz Pro may provide a sleep-duration and sleep-routine tracking feature.
+
+The feature may allow you to:
+
+- manually start a sleep session;
+- manually end a sleep session;
+- record bedtime and wake time;
+- calculate total sleep duration;
+- set sleep-duration goals;
+- review previous sleep sessions;
+- view routine or consistency information.
+
+The sleep feature is intended for general wellness, routine, and informational purposes only.
+
+Alarm Asuz Pro does not claim to medically measure, detect, diagnose, prevent, treat, or monitor:
+
+- REM sleep;
+- deep sleep;
+- light sleep;
+- sleep apnea;
+- sleep disorders;
+- heart rate;
+- heart conditions;
+- any other disease or medical condition.
+
+Alarm Asuz Pro is not a medical device and is not a substitute for professional medical advice, diagnosis, or treatment.
+
+If you have concerns about your sleep or health, consult an appropriate healthcare professional.
+
+## 6. Premium Features and Subscriptions
+
+Alarm Asuz Pro may offer Premium features through auto-renewable subscriptions or other eligible in-app purchases.
+
+Before purchase, the applicable store interface or paywall will display relevant information such as:
+
+- subscription plan;
+- billing period;
+- price;
+- available introductory offer or trial, if applicable.
+
+Subscriptions automatically renew unless cancelled in accordance with the rules and deadlines of the Apple App Store or Google Play.
 
 Payment will be charged to the App Store or Google Play account used to complete the purchase.
 
-You can manage or cancel your subscription through your App Store or Google Play subscription settings.
+You can manage or cancel an active subscription through your App Store or Google Play subscription settings.
 
-## 4. Free Trials and Introductory Offers
+Deleting Alarm Asuz Pro from your device does not automatically cancel an active subscription.
 
-If Wake For Real offers a free trial or introductory offer, the applicable offer screen will display:
+## 7. Free Trials and Introductory Offers
 
-- the duration of the trial or promotional period;
-- the subscription price that applies after the offer ends;
-- the applicable billing period.
+If a free trial or introductory offer is available, the applicable offer screen will display the trial or promotional duration and the price that applies after the offer ends.
 
-Unless cancelled within the applicable store deadline, an eligible trial or introductory offer may automatically convert into a paid subscription under the terms shown before purchase.
+Unless cancelled within the deadline required by the applicable store, an eligible trial or introductory offer may automatically convert into a paid subscription.
 
-Availability and eligibility for trials or promotional offers are determined by the applicable app store.
+Trial eligibility, introductory pricing, and promotional availability are determined by the applicable app store and may vary by account, country, region, or purchase history.
 
-## 5. Restore Purchases
+## 8. Restore Purchases
 
-Where supported by the applicable app store, eligible previous purchases or subscription entitlements may be restored using the Restore Purchases functionality provided in Wake For Real.
+Where supported by the applicable app store, eligible previous purchases or subscription entitlements may be restored using the Restore Purchases functionality.
 
-Restoration is subject to confirmation by the applicable store and purchase provider.
+Restoration depends on verification by the applicable store and purchase provider.
 
-## 6. Managing and Cancelling Subscriptions
+A successful restore requires that the purchase is associated with the relevant store account and remains eligible for restoration.
 
-Subscriptions are managed through the store account used for the purchase.
+## 9. Managing and Cancelling Subscriptions
 
-Users may access the applicable App Store or Google Play subscription-management interface to manage or cancel their subscription.
+Subscriptions are managed through the store account used for the original purchase.
 
-Deleting Wake For Real from your device does not automatically cancel an active subscription.
+Alarm Asuz Pro may provide a Manage Subscription action that opens the relevant Apple App Store or Google Play subscription-management interface.
 
-## 7. Payments and Refunds
+Asuzsoftware cannot directly cancel a subscription on behalf of the user when the subscription is managed by Apple or Google.
+
+## 10. Payments and Refunds
 
 Payments are processed by Apple or Google.
 
 Asuzsoftware does not directly receive or store your full payment-card information.
 
-Refund eligibility and refund processing are generally governed by the policies of the store through which the purchase was made.
+Refund eligibility, refund requests, payment disputes, and related payment matters are generally subject to the policies and procedures of the store through which the purchase was made.
 
-## 8. User Accounts
+## 11. User Accounts
 
-Certain features may require a user account.
+Certain Alarm Asuz Pro features may require a user account.
 
 You are responsible for maintaining appropriate control over your account and sign-in method.
 
-You must not intentionally provide false information, interfere with authentication systems, or attempt to access another user's account without authorization.
+You must not:
 
-## 9. Account Deletion
+- intentionally provide false information where accurate information is required;
+- attempt to access another user's account without authorization;
+- interfere with authentication systems;
+- abuse account creation, login, or recovery systems.
 
-If Wake For Real provides a user account, account-deletion functionality or another published deletion method may be made available.
+## 12. Account Deletion
 
-Deletion requests are subject to applicable legal, security, fraud-prevention, and transaction-recordkeeping requirements.
+If Alarm Asuz Pro provides user accounts, an account-deletion feature or another published deletion method may be made available.
 
-## 10. Acceptable Use
+Certain information may be retained where reasonably necessary or legally required for:
 
-You may not use Wake For Real to:
+- security;
+- fraud prevention;
+- financial records;
+- transaction records;
+- dispute resolution;
+- legal compliance.
+
+For account or data deletion matters, you may contact:
+
+**asuzsoftware@gmail.com**
+
+## 13. Acceptable Use
+
+You may not use Alarm Asuz Pro to:
 
 - violate applicable law;
 - interfere with or disrupt the app or related services;
-- attempt unauthorized access to systems, accounts, or services;
-- bypass subscription, purchase, authentication, or security mechanisms;
-- distribute malicious software through or in connection with the app;
+- attempt unauthorized access to systems, services, or accounts;
+- intentionally bypass subscription, payment, authentication, or security mechanisms;
+- distribute malicious software;
+- abuse third-party services connected to the application;
+- attempt to create excessive or abusive requests intended to cause harm or financial cost;
 - reverse engineer or circumvent technical protections where prohibited by applicable law.
 
-## 11. Intellectual Property
+## 14. Device Permissions and Settings
 
-Wake For Real, including its original software, design, branding, graphics, text, and other original materials, is owned by or licensed to Asuzsoftware unless otherwise stated.
+Alarm Asuz Pro may require or request access to certain device permissions or settings for features to function correctly.
 
-These Terms do not transfer ownership of Wake For Real or its intellectual property to you.
+Depending on the operating system and device, these may include:
 
-## 12. Third-Party Services
+- notifications;
+- exact alarm functionality;
+- full-screen alarm functionality;
+- battery-related settings;
+- vibration;
+- wake-related functionality;
+- foreground operation necessary for active alarms.
 
-Wake For Real may rely on third-party platforms or services, including Apple, Google, Firebase, app stores, and subscription-management providers.
+Users may choose whether to grant permissions that the operating system allows them to control.
 
-Use of those services may also be subject to their respective terms, policies, and technical requirements.
+Some features may not function correctly if required permissions or settings are disabled.
 
-## 13. Availability and Changes
+## 15. Third-Party Services
+
+Alarm Asuz Pro may rely on third-party services or platforms, including:
+
+- Google;
+- Firebase;
+- Apple;
+- Apple App Store;
+- Google Play;
+- subscription or purchase-management providers.
+
+These services may be governed by their own terms, privacy policies, technical requirements, and availability.
+
+Asuzsoftware is not responsible for outages, restrictions, or policy changes caused solely by third-party platforms.
+
+## 16. Intellectual Property
+
+Alarm Asuz Pro, including its original software, design, branding, graphics, text, user interface, and other original materials, is owned by or licensed to Asuzsoftware unless otherwise stated.
+
+These Terms do not transfer ownership of Alarm Asuz Pro or its intellectual property to you.
+
+## 17. Availability and Changes
 
 We may update, modify, replace, suspend, or discontinue features where reasonably necessary for:
 
 - security;
 - technical compatibility;
-- product improvements;
+- product development;
 - legal compliance;
-- app-store requirements.
+- app-store requirements;
+- operating-system changes.
 
-We do not guarantee that every feature will remain available permanently or operate identically on every device or operating-system version.
+We do not guarantee that every feature will remain permanently available or work identically on every device or operating-system version.
 
-## 14. Disclaimer
+## 18. Disclaimer
 
-Wake For Real is provided on an "as available" basis to the extent permitted by applicable law.
+Alarm Asuz Pro is provided on an "as available" basis to the extent permitted by applicable law.
 
-We do not guarantee uninterrupted or error-free operation.
+We do not guarantee uninterrupted, error-free, or universally compatible operation.
+
+Alarm, sleep-tracking, mission, notification, or subscription functionality may be affected by device hardware, software, system settings, network availability, store services, or other circumstances outside our control.
 
 Nothing in these Terms excludes or limits consumer rights that cannot legally be excluded or limited.
 
-## 15. Limitation of Liability
+## 19. Limitation of Liability
 
-To the maximum extent permitted by applicable law, Asuzsoftware will not be responsible for indirect, incidental, special, or consequential losses arising from the use of or inability to use Wake For Real.
+To the maximum extent permitted by applicable law, Asuzsoftware will not be responsible for indirect, incidental, special, or consequential losses resulting from the use of or inability to use Alarm Asuz Pro.
 
 This limitation does not apply where liability cannot legally be excluded or limited.
 
-## 16. Privacy
+## 20. Privacy
 
-Use of Wake For Real is also subject to our Privacy Policy.
+Use of Alarm Asuz Pro is also governed by our Privacy Policy:
 
-## 17. Changes to These Terms
+[Alarm Asuz Pro Privacy Policy](../privacy/)
 
-We may update these Terms when Wake For Real, our services, store requirements, or applicable laws change.
+## 21. Changes to These Terms
 
-The current version will be published on this page with an updated date.
+We may update these Terms when Alarm Asuz Pro, its features, third-party services, store requirements, or applicable laws change.
 
-## 18. Contact
+The current version will be published on this page with an updated "Last updated" date.
+
+## 22. Contact
 
 For questions about these Terms:
 
@@ -155,157 +272,272 @@ For questions about these Terms:
 
 ---
 
-# Wake For Real Kullanım Şartları
+# Alarm Asuz Pro Kullanım Şartları
 
 **Son güncelleme: 15 Ekim 2026**
 
-Bu Kullanım Şartları, **Asuzsoftware** tarafından sunulan Wake For Real mobil uygulamasının kullanımını düzenler.
+Bu Kullanım Şartları, **Asuzsoftware** tarafından sunulan Alarm Asuz Pro mobil uygulamasının kullanımını düzenler.
 
-Wake For Real'ı indirerek, uygulamaya erişerek veya uygulamayı kullanarak bu şartları kabul etmiş olursunuz.
+Alarm Asuz Pro'yu indirerek, uygulamaya erişerek veya uygulamayı kullanarak bu şartları kabul etmiş olursunuz.
 
 ## 1. Uygulamanın Amacı
 
-Wake For Real alarm, uyanma, motivasyon, rutin ve bunlarla ilişkili mobil uygulama özellikleri sunar.
+Alarm Asuz Pro alarm, uyanma, uyku rutini, motivasyon ve bunlarla ilişkili mobil uygulama özellikleri sunar.
 
 Uygulama kişisel kullanım amacıyla sunulmaktadır.
 
 ## 2. Alarm Güvenilirliği
 
-Wake For Real; cihazınıza, işletim sisteminize, izinlere, bildirim ayarlarına, pil durumuna, ses ayarlarına, arka plan kısıtlamalarına ve diğer teknik koşullara bağlı olarak çalışır.
+Alarm Asuz Pro; cihazınıza, işletim sisteminize, izinlere, bildirim ayarlarına, pil durumuna, ses ayarlarına, arka plan kısıtlamalarına ve diğer teknik koşullara bağlı olarak çalışır.
 
-Alarmın mümkün olan her koşulda çalacağını garanti edemeyiz.
+Alarmın mümkün olan her koşulda doğru şekilde çalacağını veya görüntüleneceğini garanti edemeyiz.
 
 Şunları kontrol etmek kullanıcının sorumluluğundadır:
 
 - cihazın yeterli şarja sahip olması;
-- gerekli izinlerin açık olması;
+- gerekli alarm ve bildirim izinlerinin açık olması;
 - cihaz ses ve bildirim ayarlarının uygun olması;
-- işletim sistemi kısıtlamalarının uygulamanın çalışmasını engellememesi.
+- pil veya arka plan kısıtlamalarının alarmın çalışmasını engellememesi;
+- güvenilir alarm çalışması için gerekli işletim sistemi ayarlarının açık tutulması.
 
-Bir alarmın çalışmamasının yaralanma, tehlike, finansal kayıp, tıbbi tedavinin kaçırılması, seyahatin kaçırılması veya başka ciddi sonuçlara yol açabileceği durumlarda Wake For Real'ı tek alarm veya bildirim yöntemi olarak kullanmayın.
+Alarm Asuz Pro gerektiğinde sizi bildirim izinları, kesin alarm ayarları, tam ekran alarm özellikleri veya pil optimizasyonu gibi sistem ayarlarına yönlendirebilir.
 
-## 3. Premium Özellikler ve Abonelikler
+Bir alarmın çalışmamasının yaralanma, tehlike, finansal kayıp, tıbbi tedavinin kaçırılması, seyahatin kaçırılması, iş yükümlülüklerinin kaçırılması veya başka ciddi sonuçlara yol açabileceği durumlarda Alarm Asuz Pro'yu tek alarm, uyarı veya bildirim yöntemi olarak kullanmayın.
 
-Wake For Real, otomatik yenilenen abonelikler aracılığıyla Premium özellikler sunabilir.
+## 3. Uyanma Görevleri
 
-Mevcut plan, faturalandırma dönemi, fiyat ve varsa teklif ayrıntıları satın alma işleminden önce gösterilir.
+Alarm Asuz Pro, alarmın kapatılmasından önce tamamlanması gereken uyanma görevleri sunabilir.
 
-Abonelikler, Apple App Store veya Google Play kurallarına uygun şekilde ilgili faturalandırma dönemi sona ermeden iptal edilmediği sürece otomatik olarak yenilenir.
+Bunlar şunları içerebilir:
+
+- matematik görevleri;
+- hafıza görevleri;
+- hareket veya sallama görevleri;
+- yazma aktiviteleri;
+- oyunlar;
+- olumlama veya rutin tabanlı görevler;
+- desteklenen diğer uyanma aktiviteleri.
+
+Görevlerin kullanılabilirliği ve çalışma şekli cihaz donanımınıza ve işletim sisteminize bağlı olabilir.
+
+Bir görev cihazınızda bulunmayan veya desteklenmeyen bir donanım gerektiriyorsa Alarm Asuz Pro, kullanıcının alarmı kalıcı olarak kapatamamasını önlemek amacıyla alternatif veya yedek bir yöntem sunabilir.
+
+## 4. Hareket Tabanlı Özellikler
+
+Shake Challenge gibi bazı uyanma görevleri cihazınızın hareket veya ivmeölçer sensörlerini kullanabilir.
+
+Bu sensörler yalnızca ilgili özellik için gerekli hareketin algılanması amacıyla kullanılır.
+
+Hareket tabanlı özellikler cihaz donanımı, sensör kalitesi, koruyucu kılıf, işletim sistemi davranışı veya fiziksel hareket şekline bağlı olarak farklı çalışabilir.
+
+Hareket tabanlı görevleri güvenli şekilde kullanmalı ve aşırı veya tehlikeli hareketlerden kaçınmalısınız.
+
+## 5. Uyku Takibi
+
+Alarm Asuz Pro uyku süresi ve uyku rutini takip özelliği sunabilir.
+
+Bu özellik aşağıdakileri yapmanıza olanak sağlayabilir:
+
+- uyku oturumunu manuel olarak başlatmak;
+- uyku oturumunu manuel olarak bitirmek;
+- yatış ve uyanma zamanlarını kaydetmek;
+- toplam uyku süresini hesaplamak;
+- uyku süresi hedefleri belirlemek;
+- geçmiş uyku oturumlarını görüntülemek;
+- rutin veya düzenlilik bilgilerini görüntülemek.
+
+Uyku özelliği yalnızca genel yaşam düzeni, rutin ve bilgilendirme amacıyla sunulmaktadır.
+
+Alarm Asuz Pro aşağıdakileri tıbbi olarak ölçtüğünü, tespit ettiğini, teşhis ettiğini, önlediğini, tedavi ettiğini veya izlediğini iddia etmez:
+
+- REM uykusu;
+- derin uyku;
+- hafif uyku;
+- uyku apnesi;
+- uyku bozuklukları;
+- kalp atış hızı;
+- kalp hastalıkları;
+- herhangi başka bir hastalık veya tıbbi durum.
+
+Alarm Asuz Pro tıbbi cihaz değildir ve profesyonel tıbbi tavsiye, teşhis veya tedavinin yerine geçmez.
+
+Uyku veya sağlığınızla ilgili endişeleriniz varsa uygun bir sağlık uzmanına danışın.
+
+## 6. Premium Özellikler ve Abonelikler
+
+Alarm Asuz Pro, otomatik yenilenen abonelikler veya uygun uygulama içi satın almalar aracılığıyla Premium özellikler sunabilir.
+
+Satın alma işleminden önce ilgili mağaza arayüzü veya paywall aşağıdaki bilgileri gösterebilir:
+
+- abonelik planı;
+- faturalandırma dönemi;
+- fiyat;
+- varsa tanıtım teklifi veya ücretsiz deneme.
+
+Abonelikler Apple App Store veya Google Play'in geçerli kuralları ve iptal sürelerine uygun şekilde iptal edilmediği sürece otomatik olarak yenilenir.
 
 Ödeme, satın alma işleminin tamamlandığı App Store veya Google Play hesabından tahsil edilir.
 
-Aboneliğinizi App Store veya Google Play abonelik ayarlarından yönetebilir veya iptal edebilirsiniz.
+Aktif aboneliğinizi App Store veya Google Play abonelik ayarlarından yönetebilir veya iptal edebilirsiniz.
 
-## 4. Ücretsiz Denemeler ve Tanıtım Teklifleri
+Alarm Asuz Pro'yu cihazınızdan silmek aktif aboneliğinizi otomatik olarak iptal etmez.
 
-Wake For Real ücretsiz deneme veya tanıtım teklifi sunarsa ilgili teklif ekranında:
+## 7. Ücretsiz Denemeler ve Tanıtım Teklifleri
 
-- deneme veya tanıtım döneminin süresi;
-- teklif sona erdikten sonra uygulanacak abonelik fiyatı;
-- ilgili faturalandırma dönemi
+Ücretsiz deneme veya tanıtım teklifi sunulması halinde ilgili teklif ekranında deneme veya promosyon süresi ile teklif sona erdikten sonra uygulanacak fiyat gösterilir.
 
-gösterilir.
+İlgili mağazanın gerektirdiği süre içerisinde iptal edilmediği takdirde uygun bir deneme veya tanıtım teklifi otomatik olarak ücretli aboneliğe dönüşebilir.
 
-Uygun bir deneme veya tanıtım teklifi, ilgili mağazanın belirlediği süre içerisinde iptal edilmezse satın alma öncesinde gösterilen şartlara göre otomatik olarak ücretli aboneliğe dönüşebilir.
+Deneme uygunluğu, tanıtım fiyatları ve promosyon kullanılabilirliği ilgili uygulama mağazası tarafından belirlenir ve hesaba, ülkeye, bölgeye veya satın alma geçmişine göre değişebilir.
 
-Deneme ve tanıtım tekliflerinin kullanılabilirliği ve uygunluğu ilgili uygulama mağazası tarafından belirlenir.
+## 8. Satın Almaları Geri Yükleme
 
-## 5. Satın Almaları Geri Yükleme
+İlgili uygulama mağazası tarafından desteklenmesi halinde uygun geçmiş satın almalar veya abonelik hakları Restore Purchases özelliği kullanılarak geri yüklenebilir.
 
-İlgili uygulama mağazasının desteklediği durumlarda, uygun geçmiş satın almalar veya abonelik hakları Wake For Real içerisindeki Restore Purchases özelliği kullanılarak geri yüklenebilir.
+Geri yükleme işlemi ilgili mağaza ve satın alma sağlayıcısının doğrulamasına bağlıdır.
 
-Geri yükleme işlemi ilgili mağazanın ve satın alma sağlayıcısının doğrulamasına tabidir.
+Başarılı bir geri yükleme için satın almanın ilgili mağaza hesabıyla bağlantılı ve geri yüklemeye uygun olması gerekir.
 
-## 6. Aboneliği Yönetme ve İptal Etme
+## 9. Aboneliği Yönetme ve İptal Etme
 
-Abonelikler, satın alma işleminin yapıldığı mağaza hesabı üzerinden yönetilir.
+Abonelikler ilk satın alma işleminin gerçekleştirildiği mağaza hesabı üzerinden yönetilir.
 
-Kullanıcılar aboneliklerini yönetmek veya iptal etmek için ilgili App Store veya Google Play abonelik yönetimi ekranına erişebilir.
+Alarm Asuz Pro, ilgili Apple App Store veya Google Play abonelik yönetimi ekranını açan Manage Subscription özelliği sunabilir.
 
-Wake For Real uygulamasını cihazınızdan silmek aktif aboneliğinizi otomatik olarak iptal etmez.
+Abonelik Apple veya Google tarafından yönetildiğinde Asuzsoftware kullanıcı adına aboneliği doğrudan iptal edemez.
 
-## 7. Ödemeler ve İadeler
+## 10. Ödemeler ve İadeler
 
 Ödemeler Apple veya Google tarafından işlenir.
 
 Asuzsoftware tam ödeme kartı bilgilerinizi doğrudan almaz veya saklamaz.
 
-İade uygunluğu ve iade işlemleri genel olarak satın alma işleminin gerçekleştirildiği mağazanın politikalarına tabidir.
+İade uygunluğu, iade talepleri, ödeme uyuşmazlıkları ve ilgili ödeme işlemleri genel olarak satın alma işleminin gerçekleştirildiği mağazanın politikalarına ve prosedürlerine tabidir.
 
-## 8. Kullanıcı Hesapları
+## 11. Kullanıcı Hesapları
 
-Bazı özellikler kullanıcı hesabı gerektirebilir.
+Bazı Alarm Asuz Pro özellikleri kullanıcı hesabı gerektirebilir.
 
 Hesabınız ve kullandığınız giriş yönteminin güvenliğini korumak sizin sorumluluğunuzdadır.
 
-Bilerek yanlış bilgi vermemeli, kimlik doğrulama sistemlerine müdahale etmemeli veya başka bir kullanıcının hesabına izinsiz erişmeye çalışmamalısınız.
+Şunları yapamazsınız:
 
-## 9. Hesap Silme
+- doğru bilgi gerekli olduğunda bilerek yanlış bilgi sağlamak;
+- başka bir kullanıcının hesabına izinsiz erişmeye çalışmak;
+- kimlik doğrulama sistemlerine müdahale etmek;
+- hesap oluşturma, giriş veya kurtarma sistemlerini kötüye kullanmak.
 
-Wake For Real kullanıcı hesabı sunuyorsa, uygulama içinde hesap silme özelliği veya yayınlanmış başka bir hesap silme yöntemi sunulabilir.
+## 12. Hesap Silme
 
-Silme talepleri geçerli yasal yükümlülüklere, güvenlik gerekliliklerine, dolandırıcılığı önleme tedbirlerine ve işlem kayıtlarının saklanmasına ilişkin yükümlülüklere tabidir.
+Alarm Asuz Pro kullanıcı hesabı sunuyorsa uygulama içinde hesap silme özelliği veya yayınlanan başka bir silme yöntemi sunulabilir.
 
-## 10. Kabul Edilebilir Kullanım
+Bazı bilgiler aşağıdaki nedenlerle makul ölçüde gerekli veya kanunen zorunlu olduğunda saklanabilir:
 
-Wake For Real şu amaçlarla kullanılamaz:
+- güvenlik;
+- dolandırıcılığın önlenmesi;
+- finansal kayıtlar;
+- işlem kayıtları;
+- uyuşmazlıkların çözümü;
+- yasal uyumluluk.
+
+Hesap veya veri silme konuları için:
+
+**asuzsoftware@gmail.com**
+
+## 13. Kabul Edilebilir Kullanım
+
+Alarm Asuz Pro'yu aşağıdaki amaçlarla kullanamazsınız:
 
 - geçerli mevzuatı ihlal etmek;
 - uygulamanın veya ilişkili hizmetlerin çalışmasını engellemek veya bozmak;
-- sistemlere, hesaplara veya hizmetlere yetkisiz erişim sağlamaya çalışmak;
-- abonelik, satın alma, kimlik doğrulama veya güvenlik mekanizmalarını aşmak;
-- uygulama aracılığıyla veya uygulamayla bağlantılı olarak kötü amaçlı yazılım dağıtmak;
+- sistemlere, hizmetlere veya hesaplara yetkisiz erişim sağlamaya çalışmak;
+- abonelik, ödeme, kimlik doğrulama veya güvenlik mekanizmalarını bilerek aşmak;
+- kötü amaçlı yazılım dağıtmak;
+- uygulamaya bağlı üçüncü taraf hizmetlerini kötüye kullanmak;
+- zarar veya finansal maliyet oluşturmak amacıyla aşırı veya kötüye kullanım niteliğinde istekler oluşturmak;
 - geçerli hukukun yasakladığı durumlarda teknik korumaları aşmak veya tersine mühendislik yapmak.
 
-## 11. Fikri Mülkiyet
+## 14. Cihaz İzinleri ve Ayarları
 
-Aksi belirtilmediği sürece Wake For Real'ın özgün yazılımı, tasarımı, markası, grafikleri, metinleri ve diğer özgün materyalleri Asuzsoftware'e aittir veya Asuzsoftware tarafından lisanslanmıştır.
+Alarm Asuz Pro'nun bazı özelliklerinin doğru çalışması için belirli cihaz izinlarına veya sistem ayarlarına ihtiyaç duyulabilir.
 
-Bu Kullanım Şartları Wake For Real'ın veya fikri mülkiyet haklarının mülkiyetini kullanıcıya devretmez.
+İşletim sistemi ve cihazınıza bağlı olarak bunlar şunları içerebilir:
 
-## 12. Üçüncü Taraf Hizmetleri
+- bildirimler;
+- kesin alarm işlevi;
+- tam ekran alarm işlevi;
+- pil ayarları;
+- titreşim;
+- cihazı uyandırmayla ilişkili işlevler;
+- aktif alarmlar için gerekli ön plan çalışması.
 
-Wake For Real; Apple, Google, Firebase, uygulama mağazaları ve abonelik yönetimi sağlayıcıları dahil olmak üzere üçüncü taraf platform ve hizmetlerden yararlanabilir.
+İşletim sisteminin kullanıcı kontrolüne sunduğu izinleri verip vermemeyi kullanıcı seçebilir.
 
-Bu hizmetlerin kullanımı ayrıca kendi şartlarına, politikalarına ve teknik gereksinimlerine tabi olabilir.
+Gerekli izinler veya ayarlar kapalı olduğunda bazı özellikler düzgün çalışmayabilir.
 
-## 13. Kullanılabilirlik ve Değişiklikler
+## 15. Üçüncü Taraf Hizmetleri
 
-Makul ölçüde gerekli olduğunda özellikleri aşağıdaki nedenlerle güncelleyebilir, değiştirebilir, yenileriyle değiştirebilir, askıya alabilir veya sonlandırabiliriz:
+Alarm Asuz Pro aşağıdaki üçüncü taraf hizmetlerden veya platformlardan yararlanabilir:
+
+- Google;
+- Firebase;
+- Apple;
+- Apple App Store;
+- Google Play;
+- abonelik veya satın alma yönetimi sağlayıcıları.
+
+Bu hizmetler kendi şartlarına, gizlilik politikalarına, teknik gereksinimlerine ve kullanılabilirlik durumlarına tabi olabilir.
+
+Asuzsoftware yalnızca üçüncü taraf platformlardan kaynaklanan kesintilerden, kısıtlamalardan veya politika değişikliklerinden sorumlu değildir.
+
+## 16. Fikri Mülkiyet
+
+Alarm Asuz Pro'nun özgün yazılımı, tasarımı, markası, grafikleri, metinleri, kullanıcı arayüzü ve diğer özgün materyalleri aksi belirtilmediği sürece Asuzsoftware'e aittir veya Asuzsoftware tarafından lisanslanmıştır.
+
+Bu Kullanım Şartları Alarm Asuz Pro'nun veya fikri mülkiyet haklarının mülkiyetini kullanıcıya devretmez.
+
+## 17. Kullanılabilirlik ve Değişiklikler
+
+Aşağıdaki nedenlerle özellikleri makul ölçüde gerekli olduğunda güncelleyebilir, değiştirebilir, yenileriyle değiştirebilir, askıya alabilir veya sonlandırabiliriz:
 
 - güvenlik;
 - teknik uyumluluk;
-- ürün geliştirmeleri;
+- ürün geliştirme;
 - yasal uyumluluk;
-- uygulama mağazası gereklilikleri.
+- uygulama mağazası gereklilikleri;
+- işletim sistemi değişiklikleri.
 
-Her özelliğin sürekli olarak kullanılabilir kalacağını veya her cihaz ve işletim sistemi sürümünde aynı şekilde çalışacağını garanti etmiyoruz.
+Her özelliğin kalıcı olarak kullanılabilir kalacağını veya her cihaz ve işletim sistemi sürümünde aynı şekilde çalışacağını garanti etmiyoruz.
 
-## 14. Sorumluluk Reddi
+## 18. Sorumluluk Reddi
 
-Wake For Real, geçerli hukukun izin verdiği ölçüde mevcut olduğu haliyle sunulmaktadır.
+Alarm Asuz Pro, geçerli hukukun izin verdiği ölçüde mevcut olduğu haliyle sunulmaktadır.
 
-Kesintisiz veya hatasız çalışacağını garanti etmiyoruz.
+Kesintisiz, hatasız veya her cihazla tamamen uyumlu çalışacağını garanti etmiyoruz.
+
+Alarm, uyku takibi, görev, bildirim veya abonelik özellikleri; cihaz donanımı, yazılımı, sistem ayarları, ağ kullanılabilirliği, mağaza hizmetleri veya kontrolümüz dışındaki diğer koşullardan etkilenebilir.
 
 Bu Kullanım Şartlarının hiçbir bölümü yasal olarak kaldırılamayan veya sınırlandırılamayan tüketici haklarını ortadan kaldırmaz veya sınırlandırmaz.
 
-## 15. Sorumluluğun Sınırlandırılması
+## 19. Sorumluluğun Sınırlandırılması
 
-Geçerli hukukun izin verdiği azami ölçüde Asuzsoftware, Wake For Real'ın kullanılması veya kullanılamamasından kaynaklanan dolaylı, arızi, özel veya sonuç niteliğindeki kayıplardan sorumlu değildir.
+Geçerli hukukun izin verdiği azami ölçüde Asuzsoftware, Alarm Asuz Pro'nun kullanılması veya kullanılamamasından kaynaklanan dolaylı, arızi, özel veya sonuç niteliğindeki kayıplardan sorumlu değildir.
 
 Bu sınırlama sorumluluğun yasal olarak kaldırılamadığı veya sınırlandırılamadığı durumlarda uygulanmaz.
 
-## 16. Gizlilik
+## 20. Gizlilik
 
-Wake For Real'ın kullanımı ayrıca Gizlilik Politikamıza tabidir.
+Alarm Asuz Pro'nun kullanımı ayrıca Gizlilik Politikamıza tabidir:
 
-## 17. Bu Şartlardaki Değişiklikler
+[Alarm Asuz Pro Gizlilik Politikası](../privacy/)
 
-Wake For Real, hizmetlerimiz, mağaza gereklilikleri veya geçerli mevzuat değiştiğinde bu Kullanım Şartlarını güncelleyebiliriz.
+## 21. Bu Şartlardaki Değişiklikler
 
-Güncel sürüm, yenilenmiş tarih bilgisiyle bu sayfada yayınlanacaktır.
+Alarm Asuz Pro, özellikleri, üçüncü taraf hizmetleri, mağaza gereklilikleri veya geçerli mevzuat değiştiğinde bu Kullanım Şartlarını güncelleyebiliriz.
 
-## 18. İletişim
+Güncel sürüm yenilenmiş "Son güncelleme" tarihiyle bu sayfada yayınlanacaktır.
+
+## 22. İletişim
 
 Bu Kullanım Şartlarıyla ilgili sorular için:
 
