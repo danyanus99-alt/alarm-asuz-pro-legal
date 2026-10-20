@@ -1,0 +1,205 @@
+:root {
+  color-scheme: light dark;
+  --bg: #0f1115;
+  --surface: #171a21;
+  --surface-2: #1e222b;
+  --text: #f4f6f8;
+  --muted: #aeb6c2;
+  --border: #2d3440;
+  --accent: #8ee86f;
+  --accent-text: #10150d;
+  --link: #a9ec91;
+  --max: 860px;
+}
+
+* { box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.68;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--link); }
+a:hover { text-decoration-thickness: 2px; }
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(14px);
+  border-bottom: 1px solid var(--border);
+}
+
+.header-inner {
+  max-width: calc(var(--max) + 80px);
+  margin: 0 auto;
+  padding: 14px 20px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  justify-content: space-between;
+}
+
+.brand {
+  font-weight: 750;
+  letter-spacing: -0.02em;
+  white-space: nowrap;
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.legal-nav {
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+
+.legal-nav a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 38px;
+  padding: 7px 10px;
+  border-radius: 9px;
+  color: var(--muted);
+  text-decoration: none;
+  font-size: 0.88rem;
+  border: 1px solid transparent;
+}
+
+.legal-nav a:hover,
+.legal-nav a[aria-current="page"] {
+  color: var(--text);
+  background: var(--surface-2);
+  border-color: var(--border);
+}
+
+.language-wrap {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.language-wrap label {
+  color: var(--muted);
+  font-size: 0.84rem;
+}
+
+#language-select {
+  appearance: auto;
+  min-height: 38px;
+  max-width: 190px;
+  border: 1px solid var(--border);
+  border-radius: 9px;
+  background: var(--surface-2);
+  color: var(--text);
+  padding: 7px 9px;
+  font: inherit;
+  font-size: 0.9rem;
+}
+
+main {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 42px 24px 80px;
+}
+
+.legal-document[hidden] { display: none !important; }
+
+.legal-document {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: clamp(24px, 5vw, 52px);
+  box-shadow: 0 16px 46px rgba(0,0,0,.18);
+}
+
+.legal-document h1 {
+  margin: 0 0 12px;
+  font-size: clamp(1.8rem, 5vw, 2.55rem);
+  line-height: 1.15;
+  letter-spacing: -0.035em;
+}
+
+.legal-document h2 {
+  margin: 2.15em 0 .55em;
+  padding-top: .25em;
+  font-size: clamp(1.14rem, 3vw, 1.38rem);
+  line-height: 1.3;
+  letter-spacing: -0.015em;
+}
+
+.legal-document p { margin: .78em 0; }
+.legal-document strong { font-weight: 700; }
+
+.legal-document ul {
+  padding-left: 1.4rem;
+  margin: .75em 0 1.05em;
+}
+
+.legal-document li { margin: .32em 0; }
+
+.legal-document > p:nth-of-type(1) {
+  color: var(--muted);
+}
+
+.page-note {
+  max-width: var(--max);
+  margin: 20px auto 0;
+  padding: 0 24px;
+  color: var(--muted);
+  font-size: .82rem;
+  text-align: center;
+}
+
+@media (max-width: 760px) {
+  .header-inner {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .header-actions {
+    width: 100%;
+    justify-content: space-between;
+  }
+  .legal-nav { flex: 1; }
+  .legal-nav a { padding-left: 8px; padding-right: 8px; }
+  .language-wrap label { display: none; }
+  #language-select { max-width: 160px; }
+  main { padding: 24px 14px 56px; }
+  .legal-document { border-radius: 14px; padding: 22px 18px 34px; }
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #f5f7f9;
+    --surface: #ffffff;
+    --surface-2: #eef2f5;
+    --text: #171a1f;
+    --muted: #5d6672;
+    --border: #d9dfe6;
+    --accent: #397f27;
+    --accent-text: #ffffff;
+    --link: #2e7620;
+  }
+  .legal-document { box-shadow: 0 16px 40px rgba(26,35,45,.08); }
+}
+
+@media print {
+  .site-header, .page-note { display: none !important; }
+  body { background: #fff; color: #000; }
+  main { max-width: none; padding: 0; }
+  .legal-document { border: 0; box-shadow: none; padding: 0; }
+  .legal-document a { color: #000; }
+}
