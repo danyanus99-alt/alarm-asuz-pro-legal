@@ -203,3 +203,53 @@ main {
   .legal-document { border: 0; box-shadow: none; padding: 0; }
   .legal-document a { color: #000; }
 }
+
+/* --- Account deletion page ------------------------------------------------ */
+/* Additions only: every existing rule above is untouched, so privacy and terms
+   render exactly as before. */
+
+.muted {
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+/* The subscription warning is the one block a reader must not miss: it is the
+   difference between deleting an account and cancelling a payment. */
+.callout {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  border-radius: 12px;
+  padding: 18px 20px;
+  margin: 26px 0;
+}
+
+.callout h2 {
+  margin-top: 0;
+}
+
+.mail-link {
+  display: inline-block;
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  font-weight: 600;
+  word-break: break-all;
+}
+
+/* Touch targets: the guidance asks for comfortable tapping, and the language
+   select sits in a crowded header on small screens. */
+.legal-nav a {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+}
+
+#language-select {
+  min-height: 44px;
+}
+
+@media (max-width: 480px) {
+  .callout { padding: 14px 16px; }
+  .legal-nav { flex-wrap: wrap; }
+}

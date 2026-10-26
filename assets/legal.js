@@ -3,16 +3,16 @@
 
   const supported = ['de', 'en', 'es', 'fr', 'it', 'ja', 'ko', 'pt', 'pt-BR', 'tr'];
   const ui = {
-    de: { language: 'Sprache', legal: 'Rechtliches', privacy: 'Datenschutz', terms: 'Nutzungsbedingungen' },
-    en: { language: 'Language', legal: 'Legal', privacy: 'Privacy Policy', terms: 'Terms of Use' },
-    es: { language: 'Idioma', legal: 'Información legal', privacy: 'Privacidad', terms: 'Términos de Uso' },
-    fr: { language: 'Langue', legal: 'Informations légales', privacy: 'Confidentialité', terms: 'Conditions d’utilisation' },
-    it: { language: 'Lingua', legal: 'Informazioni legali', privacy: 'Privacy', terms: 'Termini di Utilizzo' },
-    ja: { language: '言語', legal: '法的情報', privacy: 'プライバシー', terms: '利用規約' },
-    ko: { language: '언어', legal: '법적 정보', privacy: '개인정보 처리방침', terms: '이용약관' },
-    pt: { language: 'Idioma', legal: 'Informação legal', privacy: 'Privacidade', terms: 'Termos de Utilização' },
-    'pt-BR': { language: 'Idioma', legal: 'Informações legais', privacy: 'Privacidade', terms: 'Termos de Uso' },
-    tr: { language: 'Dil', legal: 'Yasal', privacy: 'Gizlilik Politikası', terms: 'Kullanım Şartları' }
+    de: { language: 'Sprache', legal: 'Rechtliches', privacy: 'Datenschutz', terms: 'Nutzungsbedingungen', delete: 'Konto löschen' },
+    en: { language: 'Language', legal: 'Legal', privacy: 'Privacy Policy', terms: 'Terms of Use', delete: 'Delete Account' },
+    es: { language: 'Idioma', legal: 'Información legal', privacy: 'Privacidad', terms: 'Términos de Uso', delete: 'Eliminar cuenta' },
+    fr: { language: 'Langue', legal: 'Informations légales', privacy: 'Confidentialité', terms: 'Conditions d’utilisation', delete: 'Supprimer le compte' },
+    it: { language: 'Lingua', legal: 'Informazioni legali', privacy: 'Privacy', terms: 'Termini di Utilizzo', delete: 'Elimina account' },
+    ja: { language: '言語', legal: '法的情報', privacy: 'プライバシー', terms: '利用規約', delete: 'アカウント削除' },
+    ko: { language: '언어', legal: '법적 정보', privacy: '개인정보 처리방침', terms: '이용약관', delete: '계정 삭제' },
+    pt: { language: 'Idioma', legal: 'Informação legal', privacy: 'Privacidade', terms: 'Termos de Utilização', delete: 'Eliminar conta' },
+    'pt-BR': { language: 'Idioma', legal: 'Informações legais', privacy: 'Privacidade', terms: 'Termos de Uso', delete: 'Excluir conta' },
+    tr: { language: 'Dil', legal: 'Yasal', privacy: 'Gizlilik Politikası', terms: 'Kullanım Şartları', delete: 'Hesabı Sil' }
   };
 
   function canonicalize(raw) {
@@ -59,11 +59,16 @@
   if (legalNav) legalNav.setAttribute('aria-label', labels.legal);
   if (privacyNav) privacyNav.textContent = labels.privacy;
   if (termsNav) termsNav.textContent = labels.terms;
+  const deleteNav = document.getElementById('delete-nav');
+  if (deleteNav) deleteNav.textContent = labels.delete;
 
   document.querySelectorAll('a[data-legal-target]').forEach((link) => {
     const target = link.dataset.legalTarget;
-    if (target !== 'privacy' && target !== 'terms') return;
-    const url = new URL(target === 'privacy' ? '../privacy/' : '../terms/', window.location.href);
+    if (target !== 'privacy' && target !== 'terms' && target !== 'delete') return;
+    const path = target === 'privacy' ? '../privacy/'
+      : target === 'terms' ? '../terms/'
+      : '../delete-account/';
+    const url = new URL(path, window.location.href);
     url.searchParams.set('lang', locale);
     link.href = url.toString();
   });
@@ -72,7 +77,7 @@
   document.querySelectorAll('.legal-document a').forEach((link) => {
     const raw = link.getAttribute('href');
     if (!raw) return;
-    if (raw === '../privacy/' || raw === '../terms/') {
+    if (raw === '../privacy/' || raw === '../terms/' || raw === '../delete-account/') {
       const url = new URL(raw, window.location.href);
       url.searchParams.set('lang', locale);
       link.href = url.toString();
